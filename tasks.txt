@@ -1,0 +1,9 @@
+{
+    "04 March 2025": [
+        "Push CS50P final project to GitHub",
+        "Play football"
+    ],
+    "07 March 2025": [
+        "Start freeCodeCamp Front-End Frameworks project"
+    ]
+}
